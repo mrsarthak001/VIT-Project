@@ -41,4 +41,4 @@ The solution as mentioned in A and B above, is proposed to have the following fe
 * Prevent duplicacy of supplies to needy
 * Provide Information on COVID Testing facilities
 
-For detailed information refer [here](VIT-Project)
+For detailed information refer [here](DOTQM_APP_Vit.pdf)
