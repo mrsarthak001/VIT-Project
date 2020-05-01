@@ -1,5 +1,9 @@
 # Dot-Epid : App and WebApp
 
+## Problem Statement
+
+In situations like virus spreads or in any other emergency there will be continuous calls on government help centers.  For human beings it is very difficult to answer each and every one. So, create a platform or solution to solve this problem. 
+
 ## Team Members
 
 The App DotEpid is developed by following team members:
@@ -10,7 +14,11 @@ The App DotEpid is developed by following team members:
 | Siddharth Chopra | siddharthchopra@dotquestionmark.com |
 | Pulkit | sinhapulkit768@gmail.com |
 
-## Introduction
+## How are we solving the Problem statements
+
+We are trying to provide the users with a platform be it App or WebApp where they are provided with all the FAQ's related to the COVID pandemic. Also we aim to provide a chatbot which will assist the user on his queries related to the covid-19. We also aim to provide various other features to help the users. The description is provided below.
+
+### Introduction
 
 The COVID situation in our country has led to many challenges. The prominent challenges that stare at Society and government are :
 
@@ -21,7 +29,7 @@ The COVID situation in our country has led to many challenges. The prominent cha
 5. Providing information to citizens of public utilities and services available in nearby areas.
 6. Providing movement permission who are in need by issuing curfew passes to genuine persons
 
-### Objectives
+#### Objectives
 
 Due to above mentioned challenges we wish to introduce  a solution as below:
 
