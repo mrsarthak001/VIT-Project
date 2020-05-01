@@ -40,3 +40,5 @@ The solution as mentioned in A and B above, is proposed to have the following fe
 * Help citizens to seek permission to move out of their house from their location from local authorities
 * Prevent duplicacy of supplies to needy
 * Provide Information on COVID Testing facilities
+
+For detailed information refer [here](VIT-Project)
